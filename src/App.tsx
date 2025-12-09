@@ -1078,16 +1078,16 @@ function App() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-24">
               <div className="rounded-3xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-500">
                 <img
-                  src="/assets/images/smm225.jpeg"
-                  className="w-full h-full object-cover"
+                  src="/assets/images/Stravix-success-meet.jpeg"
+                  className="w-full h-full aspect-[3/4] object-cover"
                   alt="Journey"
                 />
               </div>
 
               <div className="rounded-3xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-500">
                 <img
-                  src="/assets/images/inspirational-ceo-aakash-gupta.jpeg"
-                  className="w-full h-full object-cover"
+                  src="/assets/images/pic-with-ceo.jpeg"
+                  className="w-full h-full aspect-[3/4] object-cover"
                   alt="Journey"
                 />
               </div>
@@ -1095,7 +1095,7 @@ function App() {
               <div className="rounded-3xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-500">
                 <img
                   src="/assets/images/stravix-growth-icon.jpeg"
-                  className="w-full h-full object-cover"
+                  className="w-full h-full aspect-[3/4] object-cover"
                   alt="Journey"
                 />
               </div>

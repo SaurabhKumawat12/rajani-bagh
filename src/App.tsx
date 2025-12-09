@@ -194,7 +194,7 @@ function App() {
                 <div className="relative group">
                   <div className="relative w-64 md:w-80 h-80 rounded-2xl overflow-hidden shadow-2xl border border-[#E9E4D8] bg-white transition-all duration-500 group-hover:shadow-[0_15px_60px_rgba(0,0,0,0.20)] group-hover:-translate-y-1">
                     <img
-                      src="/assets/images/vinita-sharma.jpeg" // replace with Rajani Bagh's image when available
+                      src="/assets/images/rajani-bagh.jpeg" // replace with Rajani Bagh's image when available
                       alt="Rajani Bagh – StraviX Mentor"
                       className="w-full h-full object-cover"
                     />

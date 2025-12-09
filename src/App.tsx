@@ -178,7 +178,7 @@ function App() {
                 {/* CTA Button */}
                 <div>
                   <a
-                    href="https://wa.aisensy.com/aaas0k"
+                    href="https://wa.aisensy.com/aaasel"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] text-white px-6 py-4 rounded-full text-lg font-bold transition-all duration-300 transform hover:scale-105 hover:-translate-y-1 shadow-xl gap-3"
@@ -406,7 +406,7 @@ function App() {
                     ⚡ Seats filling fast — only 7/10 mentorship seats left this month.
                   </p>
                   <a
-                    href="https://wa.aisensy.com/aaas0k"
+                    href="https://wa.aisensy.com/aaasel"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] text-white px-6 py-3 rounded-full text-lg gap-2 font-bold transition-all duration-300 transform hover:scale-105 shadow-lg"
@@ -550,7 +550,7 @@ function App() {
                     ⚡ Your transformation could be next! Only 7/10 mentorship seats open.
                   </p>
                   <a
-                    href="https://wa.aisensy.com/aaas0k"
+                    href="https://wa.aisensy.com/aaasel"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] text-white px-4 py-3 rounded-full text-lg font-bold transition-all duration-300 transform hover:scale-105 shadow-lg"
@@ -747,7 +747,7 @@ function App() {
                 </p>
 
                 <a
-                  href="https://wa.aisensy.com/aaas0k"
+                  href="https://wa.aisensy.com/aaasel"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] 
@@ -849,7 +849,7 @@ function App() {
               </p>
 
               <a
-                href="https://wa.aisensy.com/aaas0k"
+                href="https://wa.aisensy.com/aaasel"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] 
@@ -992,7 +992,7 @@ function App() {
                 </p>
 
                 <a
-                  href="https://wa.aisensy.com/aaas0k"
+                  href="https://wa.aisensy.com/aaasel"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] 
@@ -1158,7 +1158,7 @@ function App() {
                 </p>
 
                 <a
-                  href="https://wa.aisensy.com/aaas0k"
+                  href="https://wa.aisensy.com/aaasel"
                   className="inline-flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20C157] 
           text-white font-bold py-4 px-6 rounded-full text-[16px] shadow-lg hover:shadow-[#25D366]/40 
           transform hover:scale-105 transition-all duration-300"
@@ -1238,7 +1238,7 @@ function App() {
 
             {/* CTA Button */}
             <a
-              href="https://wa.aisensy.com/aaas0k"
+              href="https://wa.aisensy.com/aaasel"
               target="_blank"
               rel="noopener noreferrer"
               className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] 
@@ -1253,7 +1253,7 @@ function App() {
           {/* Floating WhatsApp Button (Mobile) */}
           <div className="fixed bottom-4 left-4 right-4 z-50 md:hidden">
             <a
-              href="https://wa.aisensy.com/aaas0k"
+              href="https://wa.aisensy.com/aaasel"
               className="w-full bg-[#25D366] hover:bg-[#20C157] text-white font-bold py-4 px-6 
                  rounded-full text-lg shadow-2xl flex items-center justify-center gap-3 
                  animate-bounce relative"
@@ -1370,7 +1370,7 @@ function App() {
               </p>
 
               <a
-                href="https://wa.aisensy.com/aaas0k"
+                href="https://wa.aisensy.com/aaasel"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="relative track-subscribe-btn inline-flex items-center justify-center 
@@ -1445,7 +1445,7 @@ function App() {
 
               {/* CTA Button */}
               <a
-                href="https://wa.aisensy.com/aaas0k"
+                href="https://wa.aisensy.com/aaasel"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="track-subscribe-btn flex items-center justify-center gap-3 bg-[#25D366] 

@@ -1,4 +1,4 @@
-// https://wa.aisensy.com/aaas0k
+// https://wa.aisensy.com/aaasel
 import React, { useState, useEffect } from "react";
 import { Menu, X, Instagram, Youtube } from "lucide-react";
 import { Icon } from "@iconify/react";
@@ -53,7 +53,7 @@ const Header = () => {
 
           {/* WhatsApp CTA */}
           <a
-            href="https://wa.aisensy.com/aaas0k"
+            href="https://wa.aisensy.com/aaasel"
             target="_blank"
             rel="noopener noreferrer"
             className="track-subscribe-btn bg-[#25D366] hover:bg-[#20C157] text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:shadow-green-400/30 transition-transform hover:scale-105 flex items-center gap-2"
@@ -91,7 +91,7 @@ const Header = () => {
           ))}
 
           <a
-            href="https://wa.aisensy.com/aaas0k"
+            href="https://wa.aisensy.com/aaasel"
             target="_blank"
             className="flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20C157] text-white py-3 rounded-full font-semibold shadow-lg hover:scale-105 transition"
           >
@@ -137,7 +137,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://wa.aisensy.com/aaas0k"
+            href="https://wa.aisensy.com/aaasel"
             target="_blank"
             className="p-3 rounded-full bg-[#25D366] hover:scale-110 transition shadow-lg"
           >

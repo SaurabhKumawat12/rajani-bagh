@@ -178,7 +178,7 @@ function App() {
                 {/* CTA Button */}
                 <div>
                   <a
-                    href="https://wa.aisensy.com/aaasel"
+                    href="https://wa.aisensy.com/aaasev"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] text-white px-6 py-4 rounded-full text-lg font-bold transition-all duration-300 transform hover:scale-105 hover:-translate-y-1 shadow-xl gap-3"
@@ -303,7 +303,7 @@ function App() {
                     <div className="w-64 md:w-80 flex-shrink-0 bg-white rounded-2xl overflow-hidden shadow-xl hover:shadow-3xl transition-all duration-500">
                       <div className="relative">
                         <img
-                          src="/assets/images/growth-icon.jpg"
+                          src="/assets/images/stravix-growth-icon.jpeg"
                           alt="StraviX Growth Icon"
                           className="w-full h-64 md:h-96 object-cover"
                         />
@@ -321,8 +321,8 @@ function App() {
                     <div className="w-64 md:w-80 flex-shrink-0 bg-white rounded-2xl overflow-hidden shadow-xl hover:shadow-3xl transition-all duration-500">
                       <div className="relative">
                         <img
-                          src="/assets/images/income-7255.jpg"
-                          alt="First Day Income – ₹7255"
+                          src="/assets/images/income-7225.jpg"
+                          alt="First Day Income – ₹7225"
                           className="w-full h-64 md:h-96 object-contain"
                         />
                         <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent"></div>
@@ -330,12 +330,29 @@ function App() {
                       <div className="p-5 bg-[#182432] text-white h-full">
                         <p className="font-semibold leading-relaxed">
                           First major breakthrough —
-                          <span className="text-[#C7A055] font-bold">₹7,255 in a single day.</span>
+                          <span className="text-[#C7A055] font-bold">₹7,225 in a single day.</span>
                           A moment that changed everything.
                         </p>
                       </div>
                     </div>
 
+                    {/* Slide 3 – 60K+ Earnings */}
+                    <div className="w-64 md:w-80 flex-shrink-0 bg-white rounded-2xl overflow-hidden shadow-xl hover:shadow-3xl transition-all duration-500">
+                      <div className="relative">
+                        <img
+                          src="/assets/images/50k.jpeg"
+                          alt="60K Milestone"
+                          className="w-full h-64 md:h-96 object-contain"
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent"></div>
+                      </div>
+                      <div className="p-5 bg-[#182432] text-white h-full">
+                        <p className="font-semibold leading-relaxed">
+                          Achieved <span className="text-[#C7A055] font-bold">₹50,000+</span> digitally —
+                          a milestone that changed my confidence forever.
+                        </p>
+                      </div>
+                    </div>
                     {/* Slide 3 – 60K+ Earnings */}
                     <div className="w-64 md:w-80 flex-shrink-0 bg-white rounded-2xl overflow-hidden shadow-xl hover:shadow-3xl transition-all duration-500">
                       <div className="relative">
@@ -358,7 +375,7 @@ function App() {
                     <div className="w-64 md:w-80 flex-shrink-0 bg-white rounded-2xl overflow-hidden shadow-xl hover:shadow-3xl transition-all duration-500">
                       <div className="relative">
                         <img
-                          src="/assets/images/community-group.jpg"
+                          src="/assets/images/my-comunity.jpeg"
                           alt="StraviX Community Family"
                           className="w-full h-64 md:h-96 object-cover"
                         />
@@ -376,7 +393,7 @@ function App() {
                     <div className="w-64 md:w-80 flex-shrink-0 bg-white rounded-2xl overflow-hidden shadow-xl hover:shadow-3xl transition-all duration-500">
                       <div className="relative">
                         <img
-                          src="/assets/images/star-performer.jpg"
+                          src="/assets/images/60K.jpeg"
                           alt="StraviX Star Performer"
                           className="w-full h-64 md:h-96 object-cover"
                         />
@@ -406,7 +423,7 @@ function App() {
                     ⚡ Seats filling fast — only 7/10 mentorship seats left this month.
                   </p>
                   <a
-                    href="https://wa.aisensy.com/aaasel"
+                    href="https://wa.aisensy.com/aaasev"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] text-white px-6 py-3 rounded-full text-lg gap-2 font-bold transition-all duration-300 transform hover:scale-105 shadow-lg"
@@ -507,15 +524,14 @@ function App() {
                 </p>
 
                 <div className="relative mb-6">
-                  <div className="overflow-x-auto scrollbar-hide">
+                  <div className="overflow-x-auto scrollbar-hide flex md:justify-center">
                     <div className="flex space-x-5 pb-4" style={{ width: "max-content" }}>
 
                       {/* Videos – SAME, UI upgraded */}
                       {[
-                        "UrStFuEXobo",
-                        "6Y1gwobHrZI",
-                        "LAkCQVt49Nc",
-                        "L8AC4cuKH9Q",
+                        "UPXNydsWT4Y",
+                        "fILErfe0N-s",
+                        "wqGQegetLTg",
                       ].map((id, index) => (
                         <div key={index} className="relative w-54 md:w-64 flex-shrink-0">
                           <div className="relative aspect-[9/16] bg-gray-900 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300">
@@ -550,7 +566,7 @@ function App() {
                     ⚡ Your transformation could be next! Only 7/10 mentorship seats open.
                   </p>
                   <a
-                    href="https://wa.aisensy.com/aaasel"
+                    href="https://wa.aisensy.com/aaasev"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] text-white px-4 py-3 rounded-full text-lg font-bold transition-all duration-300 transform hover:scale-105 shadow-lg"
@@ -604,20 +620,23 @@ function App() {
                   </div>
                 </div>
 
-                {/* PAN Card – Different Aspect Ratio FIXED */}
-                <div className="bg-white/70 backdrop-blur-xl rounded-2xl shadow-xl border border-[#E8E3D8]/70 overflow-hidden 
-                        hover:shadow-2xl hover:-translate-y-1 transition duration-500">
-                  <div className="aspect-[5/3] md:aspect-[4/3] bg-white relative overflow-hidden flex items-center">
+                {/* PAN Card (Old Aspect Handling Restored) */}
+                <div className="bg-white rounded-2xl shadow-lg border border-[#E8E3D8] overflow-hidden 
+                        hover:shadow-2xl hover:-translate-y-1 transition-all duration-500">
+                  <div className="aspect-auto md:aspect-[3/4] overflow-hidden relative">
                     <img
                       src="https://res.cloudinary.com/dqqfy0u4u/image/upload/v1757486593/StraviX_Official_Docs_2__pages-to-jpg-0002_dtnmph.jpg"
                       alt="PAN Card"
-                      className="w-full h-full object-contain p-2 hover:scale-105 transition-all duration-500 cursor-pointer"
+                      className="w-full h-full object-contain bg-white hover:scale-105 transition-transform duration-500 cursor-pointer"
                     />
                   </div>
-                  <div className=" p-5 bg-white/40 backdrop-blur-sm border-t border-[#E8E3D8]/50">
-                    <h3 className="font-semibold text-[#182432] text-lg tracking-wide">PAN Card</h3>
+                  <div className="p-5 bg-white/40 backdrop-blur-sm border-t border-[#E8E3D8]/50">
+                    <h3 className="font-semibold text-[#182432] text-lg tracking-wide">
+                      PAN Card
+                    </h3>
                   </div>
                 </div>
+
 
                 {/* ISO Certificate */}
                 <div className="bg-white/70 backdrop-blur-xl rounded-2xl shadow-xl border border-[#E8E3D8]/70 overflow-hidden 
@@ -747,7 +766,7 @@ function App() {
                 </p>
 
                 <a
-                  href="https://wa.aisensy.com/aaasel"
+                  href="https://wa.aisensy.com/aaasev"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] 
@@ -849,7 +868,7 @@ function App() {
               </p>
 
               <a
-                href="https://wa.aisensy.com/aaasel"
+                href="https://wa.aisensy.com/aaasev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] 
@@ -992,7 +1011,7 @@ function App() {
                 </p>
 
                 <a
-                  href="https://wa.aisensy.com/aaasel"
+                  href="https://wa.aisensy.com/aaasev"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] 
@@ -1158,7 +1177,7 @@ function App() {
                 </p>
 
                 <a
-                  href="https://wa.aisensy.com/aaasel"
+                  href="https://wa.aisensy.com/aaasev"
                   className="inline-flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20C157] 
           text-white font-bold py-4 px-6 rounded-full text-[16px] shadow-lg hover:shadow-[#25D366]/40 
           transform hover:scale-105 transition-all duration-300"
@@ -1238,7 +1257,7 @@ function App() {
 
             {/* CTA Button */}
             <a
-              href="https://wa.aisensy.com/aaasel"
+              href="https://wa.aisensy.com/aaasev"
               target="_blank"
               rel="noopener noreferrer"
               className="track-subscribe-btn inline-flex items-center justify-center bg-[#25D366] hover:bg-[#20C157] 
@@ -1253,7 +1272,7 @@ function App() {
           {/* Floating WhatsApp Button (Mobile) */}
           <div className="fixed bottom-4 left-4 right-4 z-50 md:hidden">
             <a
-              href="https://wa.aisensy.com/aaasel"
+              href="https://wa.aisensy.com/aaasev"
               className="w-full bg-[#25D366] hover:bg-[#20C157] text-white font-bold py-4 px-6 
                  rounded-full text-lg shadow-2xl flex items-center justify-center gap-3 
                  animate-bounce relative"
@@ -1370,7 +1389,7 @@ function App() {
               </p>
 
               <a
-                href="https://wa.aisensy.com/aaasel"
+                href="https://wa.aisensy.com/aaasev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="relative track-subscribe-btn inline-flex items-center justify-center 
@@ -1399,7 +1418,7 @@ function App() {
 
             {/* Notification Badge */}
             <span
-              className="absolute -top-1 -right-1 bg-red-500 text-white text-[10px] font-bold 
+              className="absolute top-0 right-0 bg-red-500 text-white text-[10px] font-bold 
                  px-1.5 py-[1px] rounded-full animate-pulse shadow-md"
             >
               1
@@ -1445,7 +1464,7 @@ function App() {
 
               {/* CTA Button */}
               <a
-                href="https://wa.aisensy.com/aaasel"
+                href="https://wa.aisensy.com/aaasev"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="track-subscribe-btn flex items-center justify-center gap-3 bg-[#25D366] 

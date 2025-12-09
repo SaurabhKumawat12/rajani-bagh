@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://poojasharma.stravix.in/sitemap.xml
+Sitemap: https://rajanibagh.stravix.in/sitemap.xml

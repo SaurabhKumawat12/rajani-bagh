@@ -169,7 +169,7 @@ function App() {
                   <div className="flex items-center space-x-2">
                     <div className="w-3 h-3 bg-red-500 rounded-full animate-pulse"></div>
                     <p className="text-red-700 font-bold text-base md:text-lg">
-                      Only <span className="text-red-600">7/10 mentorship seats</span> left this month —
+                      Only <span className="text-red-600">6/10 mentorship seats</span> left this month —
                       first come, first guided.
                     </p>
                   </div>
@@ -420,7 +420,7 @@ function App() {
               <div className="bg-gradient-to-r from-red-50 to-red-100 border-l-4 border-red-500 p-6 rounded-xl shadow-sm">
                 <div className="text-center">
                   <p className="text-red-700 font-bold text-lg mb-4">
-                    ⚡ Seats filling fast — only 7/10 mentorship seats left this month.
+                    ⚡ Seats filling fast — only 6/10 mentorship seats left this month.
                   </p>
                   <a
                     href="https://wa.aisensy.com/aaasev"
@@ -563,7 +563,7 @@ function App() {
               <div className="bg-gradient-to-r from-red-50 to-red-100 border-l-4 border-red-500 p-6 rounded-xl shadow-sm">
                 <div className="text-center">
                   <p className="text-red-700 font-bold text-lg mb-4">
-                    ⚡ Your transformation could be next! Only 7/10 mentorship seats open.
+                    ⚡ Your transformation could be next! Only 6/10 mentorship seats open.
                   </p>
                   <a
                     href="https://wa.aisensy.com/aaasev"
@@ -864,7 +864,7 @@ function App() {
 
               <p className="text-lg md:text-xl font-semibold text-[#182432] mb-6 leading-relaxed">
                 🚀 Ready to start your digital transformation?
-                This month only <span className="text-red-600 font-bold">7/10 mentorship seats</span> available.
+                This month only <span className="text-red-600 font-bold">6/10 mentorship seats</span> available.
               </p>
 
               <a
@@ -1245,7 +1245,7 @@ function App() {
               <div className="inline-flex items-center gap-3 px-5 py-3 rounded-full bg-white/5 border border-[#C7A055]/30 backdrop-blur-xl shadow-md">
                 <span className="text-xl">⚡</span>
                 <span className="text-[#EFD9B0] font-semibold text-base md:text-lg">
-                  This month only: <span className="font-bold">7/10 mentorship seats</span> remaining — secure your spot now
+                  This month only: <span className="font-bold">6/10 mentorship seats</span> remaining — secure your spot now
                 </span>
               </div>
             </div>
